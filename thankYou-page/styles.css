@@ -1,0 +1,15 @@
+
+html,body{
+    height: 100%;
+    margin: 0;
+}
+
+.image{
+    background-image: url("thanku.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+  
+}
